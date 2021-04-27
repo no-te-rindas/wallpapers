@@ -10,7 +10,8 @@ Observa, elige y descarga.
 
 
 
+<a href="https://leonidasesteban.com"> <img width="50px" src="https://github.com/no-te-rindas/imagenes/blob/main/proyectos/btw-download.png?raw=true"/> </a>
 
-![Descargar](https://github.com/no-te-rindas/imagenes/blob/main/proyectos/btw-download.png?raw=true)
+[![Descargar](https://github.com/no-te-rindas/imagenes/blob/main/proyectos/btw-download.png?raw=true)]
 
 
