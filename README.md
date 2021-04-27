@@ -6,11 +6,11 @@ Observa, elige y descarga.
 
 ## Vistas previa
 
-<img width="320px" src="https://github.com/no-te-rindas/wallpapers/blob/main/spoilers-del-desarrollo.png" />
+<img width="320px" src="https://github.com/no-te-rindas/wallpapers/blob/main/spoilers-ligth.png" />
 
 
 
-<a target="_blank" href="https://github.com/no-te-rindas/wallpapers/blob/main/spoilers-del-desarrollo.png?raw=true"> <img width="240px" heigth="80px" src="https://github.com/no-te-rindas/imagenes/blob/main/proyectos/btw-download.png?raw=true"/>  </a>
+<a target="_blank" href="https://github.com/no-te-rindas/wallpapers/blob/main/spoilers-ligth.png?raw=true"> <img width="240px" heigth="80px" src="https://github.com/no-te-rindas/imagenes/blob/main/proyectos/btw-download.png?raw=true"/>  </a>
 
 
 
