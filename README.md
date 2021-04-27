@@ -11,6 +11,6 @@ Observa, elige y descarga.
 
 
 
-[![Descargar](https://whatsdog-whatsapp.com/wp-content/uploads/2018/10/descargar-button-300x105.png)](https://raw.githubusercontent.com/no-te-rindas/wallpapers/main/spoilers-del-desarrollo.png)
+[![Descargar](https://github.com/no-te-rindas/imagenes/blob/main/proyectos/btn-download.png?raw=true)
 
 
