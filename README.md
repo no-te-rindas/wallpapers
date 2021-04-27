@@ -11,6 +11,6 @@ Observa, elige y descarga.
 
 
 
-[Descargar](https://github.com/no-te-rindas/imagenes/blob/main/proyectos/btn-download.png?raw=true)
+![Descargar](https://github.com/no-te-rindas/imagenes/blob/main/proyectos/btn-download.png?raw=true)
 
 
