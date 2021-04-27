@@ -14,4 +14,7 @@ Observa, elige y descarga.
 
 
 
+<img width="320px" src="https://github.com/no-te-rindas/wallpapers/blob/main/spoilers-darkMode.png?raw=true" />
+
+<a target="_blank" href="https://github.com/no-te-rindas/wallpapers/blob/main/spoilers-darkMode.png?raw=true"> <img width="240px" heigth="80px" src="https://github.com/no-te-rindas/imagenes/blob/main/proyectos/btw-download.png?raw=true"/>  </a>
 
